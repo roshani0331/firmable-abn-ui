@@ -1,0 +1,30 @@
+[
+    {
+      "abn": "12345678901",
+      "entityName": "Tech Innovators Pty Ltd",
+      "state": "NSW",
+      "postcode": "2000",
+      "entityType": "Private Company",
+      "status": "Active",
+      "registrationDate": "2001-05-20"
+    },
+    {
+      "abn": "98765432109",
+      "entityName": "Green Solutions Australia",
+      "state": "VIC",
+      "postcode": "3000",
+      "entityType": "Non-Profit Organisation",
+      "status": "Active",
+      "registrationDate": "2015-11-15"
+    },
+    {
+      "abn": "11223344556",
+      "entityName": "Outback Supplies",
+      "state": "QLD",
+      "postcode": "4000",
+      "entityType": "Sole Trader",
+      "status": "Cancelled",
+      "registrationDate": "2010-07-30"
+    }
+  ]
+  
